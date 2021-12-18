@@ -119,7 +119,7 @@ operating systems - Kali Linux and Termux!
 ```
 
 ```
-Also, we do not recommend to change the source code of ehtools because 
+Also, we do not recommend to change the source code of Brutexsha because 
 it is very complex and you can mess up something and disrupt the framework!
 ```
 
